@@ -5,14 +5,17 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is a systematic and disciplined approach to develop softwares. The process of sofware development follows these steps: designing, developing, testing, and maintaining a sofware. Software engineering of importance to technology industry as it creates scalable softwares for future change of user demands. It also brings innovation through softwares that improves all aspects of life. A well developed software is efficient and is quick in handling tasks, this saves time.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Emergence as a Profession: In the mid-1990s to mid-2000s, software engineering solidified its status alongside computer science and traditional engineering fields1. It became recognized as a bona fide profession, distinct from mere programming.
 Role of Women: Early in software engineering history, women like Grace Hopper played crucial roles. They contributed significantly to software development, bridging the gap between hardware and software1. However, today, fewer women work in software engineering compared to other professions.
 Methodologies and Processes: The introduction of structured methodologies was a significant milestone. Traditional models like the Waterfall model paved the way for more iterative and agile methods1. These frameworks provided structure for managing and executing software projects, improving development practices.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Below are the phases of Software development life cycle:
 The first phase is Planning & Analysis. At this phase you gather business requirements from stakeholders, evaluate feasibility, revenue potential, and end-user needs.Also create a detailed plan for development. In the second phase you define requirements. Here you convert information from planning into clear development requirements and you specify what the software should achieve and how it should function. We the dive into the next phase which is design which is divided into two:
 Architectural design: which define the system’s structure and components.
@@ -21,6 +24,7 @@ The fourth phase is the actual development of the the sofware. This is where you
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall:
 Approach: Sequential and linear.
 Flexibility: Follows a fixed path; less adaptable to changes.
@@ -35,6 +39,7 @@ Team Structure: Cross-functional teams.
 Scenarios: Suited for projects with changing needs, where continuous improvement and faster delivery matter. Examples include software development, mobile app creation, or product enhancements.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer: are the creative minds behind computer programs and systems. They design, develop, test, and deploy software solutions.
 Responsibilities:
 Writing code: Developers create the actual software by writing code based on design specifications.
@@ -60,6 +65,7 @@ Coordination: Serving as a liaison among stakeholders.
 Troubleshooting: Addressing issues and ensuring project maintenance.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 IDEs are powerful software applications that combine essential tools for development within a single graphical user interface (GUI).
 Key Features:
 Code Editor: Provides a workspace for writing and editing code, with features like syntax highlighting and auto-completion.
